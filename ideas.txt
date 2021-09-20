@@ -1,0 +1,54 @@
+3d cubes: 
+https://www.youtube.com/watch?v=NdftnCDwKaU
+
+- What about a series of 3d cubes that flip continuously? 
+- What about a sphere? Doesn't that sound sensible? 
+
+3d flip effect:
+https://www.youtube.com/watch?v=FeJEEE3zc4U
+
+3d scrolling cards: 
+https://www.youtube.com/watch?v=v3xIwjse36A
+
+simple rotation cube 
+https://www.youtube.com/watch?v=E49b7gQtwwM
+
+single 3d cube: 
+https://www.youtube.com/watch?v=gTrM_sqaZWc
+
+animated cube slider: 
+https://www.youtube.com/watch?v=CG__N4SS1Fc&t=419s
+3:50
+
+After effects book animation: 
+https://www.youtube.com/watch?v=oeKHH400n8Q
+
+3d book animation: 
+https://www.youtube.com/watch?v=sxmpWC-WBMA
+
+Lottie - after effects animation as json 
+
+I've had a think and I think the best mixture between something that is programmatic and thematic is a book series 
+It would be a series of open books. If you scrolled on the x-y axis the camera would move left and right. 
+If you scrolled on the z axis it would flip the page 
+
+Yeah this is definitely the way to do it. It's the best mixture of programmatic and thematic. 
+I'm also reasonably sure you could do this by importing book animations. You could create like four or five books animations 
+They would be the book moving left, right, up, down and page flipping. 
+This also feels programmatic because all you would need to do is treat the pages as divs and match the transition speed for the book 
+ 
+I think there's two things that would add a lot of realism to this: 
+- first adding ease in, ease out and having it matched well. Having realistic animation would sell this as a book 
+- second is a slight tilt on the viewpoint. If you could make it not look like you were looking perfectly head on but were looking from a slight angle that would be very helpful.
+- One thing that would really sell it would be warped text. If you could warp the text like it's on a page that would be very good
+
+I think navigation should be - left arrow, right arrow, page flip 
+This is probably left key, right key, spacebar with a navigation as well
+
+features: 
+- autoplay toggle
+- Mute toggle
+- Crackling fire noise
+- circular dial in table that looks like it's carved into the table 
+- scraping noise when dial turns 
+- page flip noise
